@@ -1,13 +1,18 @@
 {
   "_base": "https://raw.githubusercontent.com/internetmoment/get-your-wish/main/",
   "gyw_vocals": [
-    "im-gyw-vocals/1.wav",
-    "im-gyw-vocals/2.wav",
-    "im-gyw-vocals/3.wav",
-    "im-gyw-vocals/4.wav",
-    "im-gyw-vocals/5.wav",
-    "im-gyw-vocals/6.wav",
-    "im-gyw-vocals/7.wav",
-    "im-gyw-vocals/8.wav"
+    "vocals/1.wav",
+    "vocals/2.wav",
+    "vocals/3.wav",
+    "vocals/4.wav",
+    "vocals/5.wav",
+    "vocals/6.wav",
+    "vocals/7.wav",
+    "vocals/8.wav"
+  ],
+  "gyw_melody": [
+    "melody/1.wav",
+    "melody/2.wav",
+    "melody/3.wav"
   ]
 }
